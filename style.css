@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(210, 46%, 95%)  ;
+        overflow-x:hidden ;
+}
+.col-lg-12{
+    padding-top: 2%;
+}
+.daniel{
+    background-color: hsl(263, 53%, 26%);
+}
+.quotation{
+    position: relative; /* or static, default */
+    z-index: 1;
+}
+.card-body{
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    margin-top: 4.5%;
+    margin-left: 1%;
+    z-index: 10;
+}
+
+.johnathan{
+    background-color:    hsl(217, 19%, 35%) ;
+}
+.third-card ,.fifth-card{
+    background-color: hsl(0, 0%, 100%)
+    ;
+}
+.forth-card{
+    background-color: hsl(219, 29%, 14%);
+}
+span{
+    letter-spacing: 1px;
+}
